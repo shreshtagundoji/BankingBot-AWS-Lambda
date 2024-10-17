@@ -1,4 +1,4 @@
-# BankingBot-AWS-Lambda
+## BankingBot-AWS-Lambda
  BankerBot, an AI-driven chatbot to assist customers with banking tasks such as checking account balances and transferring funds between accounts.
 
 #### Tools & Technologies: Amazon Lex, AWS Lambda, Python, AWS CloudFormation
