@@ -3,7 +3,7 @@
 
 #### Tools & Technologies: Amazon Lex, AWS Lambda, Python, AWS CloudFormation
 
-#### Key functionalities included:
+#### Key functionalities:
 - Defined intents (WelcomeIntent, CheckBalance, TransferFunds) and slot types for seamless user interactions.
 - Created custom slots for account types (Checking, Savings, Credit) and integrated validation prompts for date of birth to enhance security.
 - Implemented the CheckBalance intent to retrieve account balances based on user input with context carryover, minimizing repeated prompts.
